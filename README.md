@@ -1,2 +1,4 @@
-# dlcb-ch01-text-similarity
-Calculating Text Similarity Using Word Embeddings(from Deep Learning Cookbook Chapter 1)
+# Code for Chapter 3 of [Deep Learnig Cookbook](https://www.amazon.com/Deep-Learning-Cookbook-Practical-Recipes/dp/149199584X) by Douwe Osinga
+Calculating Text Similarity Using Word Embeddings
+
+
